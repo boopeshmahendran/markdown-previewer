@@ -1,5 +1,6 @@
 # markdown-previewer
-A simple markdown previewer using react js and marked js
+A simple markdown previewer using react js and marked js <br>
+You can view it [here]( https://boopeshmahendran.github.io/markdown-previewer/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
