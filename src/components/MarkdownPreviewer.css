@@ -1,0 +1,16 @@
+#MarkdownPreviewer {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+}
+#MarkdownPreviewer__markdown {
+  padding-left: 20px;
+}
+#MarkdownPreviewer__pad, #MarkdownPreviewer__markdown {
+  width: 45vw;
+}
+
+#MarkdownPreviewer, #MarkdownPreviewer__pad, #MarkdownPreviewer__markdown {
+  min-height: 400px;
+  height: 80vh;
+}
